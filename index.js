@@ -222,3 +222,4 @@ console.log(number2);
 
 
 selectNumbers(90,190)
+selectNumbers(90,15)
