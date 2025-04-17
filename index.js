@@ -115,9 +115,9 @@ function twoBoolen(hasID, age) {
 
   }
 }
-twoBoolen(12345, 18)
-twoBoolen(57831, 18)
 
+twoBoolen(578, 17)
+twoBoolen(12345, 18)
 
 //5.) Use a for loop to go through an array of student scores. For each score, print "Pass" if it’s above 50 or "Fail" if it’s 50 or below.
 
